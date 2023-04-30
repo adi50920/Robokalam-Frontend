@@ -27,7 +27,7 @@ function App() {
         <div className="row p-0 m-0">
           <div className="live-instructional-video col-md-6 p-0">
             <ReactPlayer
-              url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              url="https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery"
               playing
               controls
               width="100%"
