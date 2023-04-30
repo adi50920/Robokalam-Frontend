@@ -18,3 +18,7 @@ This application was built with:
 React
 ReactPlayer
 getUserMedia API
+
+Screenshot :
+
+![FireShot Capture 007 - React App - localhost](https://user-images.githubusercontent.com/98736611/235356310-8e2ad347-55b0-4f91-bbe8-725162b7b365.png)
